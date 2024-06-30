@@ -16,8 +16,9 @@ Highly valuable members will receive a gold badge. This small gamification adds 
 
 ## So who is behind this project?
 
-Ozzy (@meetg0d) is the main developer, midpricedog (@midpricedog) is responsible for optimization and backend fetching processes, Olly (@Ollyoxcalls) helps here and there followed by Zk (@ZkPercipio). 
+Ozzy (@meetg0d) is the main developer, midpricedog (@midpricedog) is responsible for optimization and backend fetching processes, Olly (@Ollyoxcalls) helps here and there followed by Zk (@ZkPercipio). Vectorized (@Vectorized) is going to do Code-Reviews for Production.
 You can also contribute to this project by developing new features and fixing bugs!
+
 
 ## What's next for you guys?
 
