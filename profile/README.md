@@ -1,11 +1,11 @@
 ## Hello there 👋!
 
-You might be asking yourself... Where am I? You are here with us, Milady. 
-**RSCS** is a Remilia based "Social Credit Score" system that let's the community engage with all participants in the Remilia Ecosystem. 
+You might be asking yourself... Where am I? You are here with us. 
+**RSCS** is a Remilia Ecosystem based "Social Credit Score" system that let's the community engage with all participants in the Remilia Ecosystem. 
 
 ## Why did we develop this? 🤔
 
-The purpose of our small project is to create an additional layer of security. You know, anyone can go and check out RSCS to see who truly contributes to the community and who doesn’t. 
+The purpose of our small project is to create an additional layer of security. You know, anyone can go and check out RESCS to see who truly contributes to the community and who doesn’t. 
 Our goal is to gatekeep the community more effectively than ever before. And what better way to do that than by relying on those who hold Remilia's assets and are dedicated to protecting the Spiritual Network at all costs?
 
 ## How does it work? 🤗
@@ -23,6 +23,10 @@ You can also contribute to this project by developing new features and fixing bu
 ## What's next for you guys?
 
 Developing additional features requested by the Community. 
+
+## Can I use this for other Ecosystems as well?
+
+Yes you can.
 
 <!--
 
