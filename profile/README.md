@@ -26,7 +26,27 @@ Developing additional features requested by the Community.
 
 ## Can I use this for other Ecosystems as well?
 
-Yes you can.
+Yes you can!
+
+Development has been discontinued without a properly working version:
+
+V.0.1.1 Bug fixes:
+- Submission fetch and error handling (Cosmetics missing)
+- Authentication Callback doesn't work
+- Statuses aren't being saved on frontend
+- Mobile version is a mess and needs structure
+- twitter logo on the claim modal is too small and out of place
+- voting isn't being added
+- Search isn't working
+- Invalid OAuth state when Twitter Authentication is done
+- Authentication window pops up after each reload
+- isLoadingModal is buggy and blocking Pagination
+- Claiming Account doesn't work
+- " Please submit your username first! " after claiming account
+- Filter isn't handling N/A correctly
+- Private accounts aren't fetched correctly
+- Disconnect in Rainbow doesn't work
+
 
 <!--
 
